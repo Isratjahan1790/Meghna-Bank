@@ -1,4 +1,4 @@
-### 👯 Meghna Bank PLC is a renowned fourth-generation bank. Here I have tested A/C TD opening, Dedupe search, A/C search module
+### 👯 Meghna Bank PLC is a renowned fourth-generation bank. Here I have tested A/C TD opening, Dedupe & SDN search, A/C search module
 ![image](https://github.com/Isratjahan1790/Meghna-Bank/assets/112747904/0fc09380-554c-49ff-88e1-6865523748b2)
 
 ## 💫 About Me:
